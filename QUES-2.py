@@ -1,3 +1,4 @@
+#Write a python program that checks whether a given number is even or odd.
 
 num = int(input("enter a number: "))
 def check_even_odd(number):

@@ -1,3 +1,6 @@
+#Write a program that takes a string input from the user and writes it to a text file.
+
+
 def write_to_file():
     Input = input("Enter the string you want to write to the file: ")
 

@@ -1,3 +1,5 @@
+#Write a python program that calculates the factorial of a given number.
+
 number = int(input("enter a number: "))
 def factorial(num):
     if (num == 0 or num == 1): 
