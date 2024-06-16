@@ -6,5 +6,6 @@ def factorial(num):
         return 1
     else: 
         return   num*factorial(num-1)
+    
 result = factorial(number)
-print(f"the factorial of {number} is {result},")
+print(f"the factorial of {number} is {result}.")
